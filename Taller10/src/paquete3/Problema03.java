@@ -1,14 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package paquete3;
 
-/**
- *
- * @author reroes
- */
 public class Problema03 {
-    
+
+    String[][] notasCualitativas = new String[3][3];
+    double[][] notasCuantitativas = {{7.1, 8, 10}, {3, 7, 9}, {10, 9, 2.1}};
 }
